@@ -1,0 +1,4 @@
+{"transactions":[{"acc_num":"111351293393","type":"WITHDRAWAL","amount":70.00,"details":"Transaction WITHDRAWAL","date":"2026-04-20","timestamp":"21:46:17","reference_id":"REF-35F61A84","related_acc":"ATM / SELF"},
+    {"acc_num":"111351293393","type":"WITHDRAWAL","amount":70.00,"date":"2026-04-20T21:46:17.862269400"},{"acc_num":"111351293393","type":"REFUND","amount":90.00,"details":"Application Rejected","date":"2026-04-20","timestamp":"14:04:24","reference_id":"REF-870F90CF","related_acc":"SYSTEM"},
+    {"acc_num":"111351293393","type":"REFUND","amount":90.00,"date":"2026-04-20T14:04:24.111370100"}
+]}

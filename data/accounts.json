@@ -1,0 +1,47 @@
+{"accounts": [
+    {
+  "customer_id": "CUST-13030",
+  "account_number": "111351293393",
+  "account_type": "CURRENT",
+  "balance": 5300.00,
+  "status": "ACTIVE",
+  "security_question": "What is your pet's name?",
+  "security_answer": "coco",
+  "cards": [
+    {
+      "card_number": "4463763646431408",
+      "card_type": "SUBCARD",
+      "cvv": "264",
+      "expiry_date": "04/31",
+      "pin_hash": "$2a$10$VG4hItuk7kXd5XCO8ABPvestgb/xaFKlgM/b46lrP2uKnmTowik4u",
+      "limit": 0.00
+    },
+  
+    {
+      "card_number": "4901389832143729",
+      "card_type": "SUBCARD",
+      "cvv": "457",
+      "expiry_date": "04/31",
+      "pin_hash": "$2a$10$VG4hItuk7kXd5XCO8ABPvestgb/xaFKlgM/b46lrP2uKnmTowik4u",
+      "limit": 1000.00
+    },
+
+    {
+      "card_number": "5515067837469512",
+      "card_type": "CREDIT",
+      "cvv": "950",
+      "expiry_date": "04/31",
+      "pin_hash": "$2a$10$VG4hItuk7kXd5XCO8ABPvestgb/xaFKlgM/b46lrP2uKnmTowik4u",
+      "limit": 5000.00
+    },
+
+    {
+      "card_number": "4577621680589556",
+      "card_type": "DEBIT",
+      "cvv": "354",
+      "expiry_date": "04/31",
+      "pin_hash": "$2a$10$VG4hItuk7kXd5XCO8ABPvestgb/xaFKlgM/b46lrP2uKnmTowik4u"
+    }
+  ]
+}
+]}
